@@ -1,1 +1,2 @@
 # WalletApplicationPhase3_152650
+Phase3_WalletApplication_152650/WalletApplication_JPAHib is Transactions implemented with Jdbc
