@@ -1,2 +1,3 @@
 # WalletApplicationPhase3_152650
-Phase3_WalletApplication_152650/WalletApplication_JPAHib is Transactions implemented with Jdbc
+Phase3_WalletApplication_152650/WalletApplication_JPAHib is Transactions table is implemented with Jdbc
+Phase3_WalletApplication_152650_Hibernate/WalletApplication_JPAHib is Transactions table created using one to many relation in JPA
